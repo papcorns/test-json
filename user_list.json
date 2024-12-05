@@ -1,0 +1,359 @@
+[
+  {
+    "username": "jsmith123",
+    "password": "P@ssw0rd789",
+    "name": "John Smith",
+    "createdDate": "2023-01-15T08:30:22Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "emiller84",
+    "password": "SecurePass456!",
+    "name": "Emma Miller",
+    "createdDate": "2023-02-22T14:15:33Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "rwilson_dev",
+    "password": "Dev#2023Pwd",
+    "name": "Robert Wilson",
+    "createdDate": "2023-03-10T11:45:18Z",
+    "accessLevel": 4
+  },
+  {
+    "username": "sarah_j",
+    "password": "Butterfly789#",
+    "name": "Sarah Johnson",
+    "createdDate": "2023-04-05T09:20:45Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "mike_admin",
+    "password": "Admin$2023",
+    "name": "Michael Brown",
+    "createdDate": "2023-05-12T16:55:30Z",
+    "accessLevel": 4
+  },
+  {
+    "username": "lisa_wang",
+    "password": "Wang2023!",
+    "name": "Lisa Wang",
+    "createdDate": "2023-06-18T13:40:15Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "david_clark",
+    "password": "Clark#Pass123",
+    "name": "David Clark",
+    "createdDate": "2023-07-21T10:25:40Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "amy_designer",
+    "password": "Design2023@",
+    "name": "Amy Chen",
+    "createdDate": "2023-08-30T15:10:55Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "peter_dev",
+    "password": "DevPass789!",
+    "name": "Peter Zhang",
+    "createdDate": "2023-09-14T12:05:20Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "karen_m",
+    "password": "KM#Pass2023",
+    "name": "Karen Martinez",
+    "createdDate": "2023-10-25T08:50:45Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "tom_analyst",
+    "password": "Analysis#2023",
+    "name": "Tom Anderson",
+    "createdDate": "2023-11-08T14:35:10Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "julia_s",
+    "password": "Julia789#",
+    "name": "Julia Santos",
+    "createdDate": "2023-12-19T11:20:35Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "ryan_tech",
+    "password": "Tech2023!",
+    "name": "Ryan Thompson",
+    "createdDate": "2023-01-30T16:05:50Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "nina_p",
+    "password": "Nina#Pass456",
+    "name": "Nina Patel",
+    "createdDate": "2023-02-11T12:51:15Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "chris_admin",
+    "password": "AdminPass#23",
+    "name": "Chris Wilson",
+    "createdDate": "2023-03-24T09:36:40Z",
+    "accessLevel": 4
+  },
+  {
+    "username": "sophia_l",
+    "password": "Sophia2023!",
+    "name": "Sophia Lee",
+    "createdDate": "2023-04-15T15:22:05Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "alex_dev",
+    "password": "DevAlex#789",
+    "name": "Alex Johnson",
+    "createdDate": "2023-05-28T12:07:30Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "maria_r",
+    "password": "Maria#Pass23",
+    "name": "Maria Rodriguez",
+    "createdDate": "2023-06-09T08:52:55Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "kevin_analyst",
+    "password": "Analysis789!",
+    "name": "Kevin Liu",
+    "createdDate": "2023-07-22T14:38:20Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "hannah_m",
+    "password": "Hannah2023#",
+    "name": "Hannah Miller",
+    "createdDate": "2023-08-03T11:23:45Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "daniel_tech",
+    "password": "Tech#Dan789",
+    "name": "Daniel Kim",
+    "createdDate": "2023-09-16T16:09:10Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "emma_design",
+    "password": "Design#2023",
+    "name": "Emma Wilson",
+    "createdDate": "2023-10-27T12:54:35Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "james_admin",
+    "password": "Admin#James23",
+    "name": "James Brown",
+    "createdDate": "2023-11-09T09:40:00Z",
+    "accessLevel": 4
+  },
+  {
+    "username": "olivia_s",
+    "password": "Olivia789!",
+    "name": "Olivia Smith",
+    "createdDate": "2023-12-22T15:25:25Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "william_dev",
+    "password": "Dev#Will456",
+    "name": "William Davis",
+    "createdDate": "2023-01-03T12:10:50Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "isabella_m",
+    "password": "Bella2023#",
+    "name": "Isabella Martinez",
+    "createdDate": "2023-02-14T08:56:15Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "ethan_tech",
+    "password": "Tech#Ethan23",
+    "name": "Ethan Wilson",
+    "createdDate": "2023-03-27T14:41:40Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "ava_design",
+    "password": "Design#Ava789",
+    "name": "Ava Johnson",
+    "createdDate": "2023-04-08T11:27:05Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "noah_admin",
+    "password": "Admin#Noah23",
+    "name": "Noah Thompson",
+    "createdDate": "2023-05-21T16:12:30Z",
+    "accessLevel": 4
+  },
+  {
+    "username": "mia_analyst",
+    "password": "Mia#Analysis23",
+    "name": "Mia Garcia",
+    "createdDate": "2023-06-02T12:57:55Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "lucas_dev",
+    "password": "Dev#Lucas789",
+    "name": "Lucas Martin",
+    "createdDate": "2023-07-15T09:43:20Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "sofia_m",
+    "password": "Sofia2023!",
+    "name": "Sofia Miller",
+    "createdDate": "2023-08-26T15:28:45Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "henry_tech",
+    "password": "Tech#Henry456",
+    "name": "Henry Wilson",
+    "createdDate": "2023-09-07T12:14:10Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "lily_design",
+    "password": "Design#Lily23",
+    "name": "Lily Chen",
+    "createdDate": "2023-10-20T08:59:35Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "owen_admin",
+    "password": "Admin#Owen789",
+    "name": "Owen Davis",
+    "createdDate": "2023-11-01T14:45:00Z",
+    "accessLevel": 4
+  },
+  {
+    "username": "emily_s",
+    "password": "Emily2023#",
+    "name": "Emily Smith",
+    "createdDate": "2023-12-14T11:30:25Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "mason_dev",
+    "password": "Dev#Mason456",
+    "name": "Mason Johnson",
+    "createdDate": "2023-01-25T16:15:50Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "scarlett_m",
+    "password": "Scarlett789!",
+    "name": "Scarlett Martinez",
+    "createdDate": "2023-02-06T13:01:15Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "sebastian_tech",
+    "password": "Tech#Seb23",
+    "name": "Sebastian Lee",
+    "createdDate": "2023-03-19T09:46:40Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "chloe_design",
+    "password": "Design#Chloe456",
+    "name": "Chloe Wilson",
+    "createdDate": "2023-04-30T15:32:05Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "jackson_admin",
+    "password": "Admin#Jack789",
+    "name": "Jackson Brown",
+    "createdDate": "2023-05-11T12:17:30Z",
+    "accessLevel": 4
+  },
+  {
+    "username": "victoria_a",
+    "password": "Victoria2023!",
+    "name": "Victoria Anderson",
+    "createdDate": "2023-06-24T09:02:55Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "leo_dev",
+    "password": "Dev#Leo456",
+    "name": "Leo Martinez",
+    "createdDate": "2023-07-05T14:48:20Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "zoe_m",
+    "password": "Zoe#Pass789",
+    "name": "Zoe Miller",
+    "createdDate": "2023-08-18T11:33:45Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "gabriel_tech",
+    "password": "Tech#Gabe23",
+    "name": "Gabriel Wilson",
+    "createdDate": "2023-09-29T16:19:10Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "madison_d",
+    "password": "Madison2023#",
+    "name": "Madison Davis",
+    "createdDate": "2023-10-10T13:04:35Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "carter_admin",
+    "password": "Admin#Carter456",
+    "name": "Carter Thompson",
+    "createdDate": "2023-11-23T09:50:00Z",
+    "accessLevel": 4
+  },
+  {
+    "username": "penelope_s",
+    "password": "Penny#Pass789",
+    "name": "Penelope Smith",
+    "createdDate": "2023-12-04T15:35:25Z",
+    "accessLevel": 2
+  },
+  {
+    "username": "dylan_dev",
+    "password": "Dev#Dylan23",
+    "name": "Dylan Johnson",
+    "createdDate": "2023-12-17T12:20:50Z",
+    "accessLevel": 3
+  },
+  {
+    "username": "aurora_m",
+    "password": "Aurora2023!",
+    "name": "Aurora Martinez",
+    "createdDate": "2023-12-28T09:06:15Z",
+    "accessLevel": 1
+  },
+  {
+    "username": "max_tech",
+    "password": "Tech#Max456",
+    "name": "Maxwell Wilson",
+    "createdDate": "2023-12-31T14:51:40Z",
+    "accessLevel": 3
+  }
+] 
